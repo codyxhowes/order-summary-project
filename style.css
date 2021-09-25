@@ -47,6 +47,7 @@
   }
 
   #plan-change {
+    max-width: 100%;
     display: flex;
     border-radius: 10px;
     margin-left: 20px;
