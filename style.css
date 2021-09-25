@@ -83,7 +83,6 @@ h1 {
   margin: 20px;
   margin-top: 35px;
   margin-left: 175px;
-  color: purple;
 }
 
 #payment {
@@ -115,7 +114,6 @@ h1 {
   display: flex;
   justify-content: center;
   text-align: center;
-  color: purple;
 }
 
 .attribution {
