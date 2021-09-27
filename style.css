@@ -8,7 +8,6 @@ body {
 }
 h1 {
   text-align: center;
-  padding: 20px;
 }
 
 #hero-image {
@@ -18,12 +17,9 @@ h1 {
 
 #hero {
   display: block;
-  margin: auto;
+  width: 100%;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  box-shadow: 0 10px 20px -5px;
-  width: 100%;
-  height: 100%;
 }
 
 #info {
@@ -35,17 +31,13 @@ h1 {
 }
 
 #order-card {
-  border-color: white;
-  border-style: solid;
   background: white;
   box-shadow: 0 10px 20px -5px;
   margin: auto;
   padding: auto;
-  width: min(70%, 494px);
-  height: 500px;
-
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
+  width: 500px;
+  height: 700px;
+  border-radius: 10px;
 }
 
 #plan-change {
