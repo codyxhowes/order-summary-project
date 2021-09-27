@@ -1,5 +1,5 @@
 var pressedButton = document.getElementsByTagName("button")[0];
       pressedButton.addEventListener("click", function (event) {
-         alert("ligma")
+         alert("Thanks for clicking the button!")
       })
 
