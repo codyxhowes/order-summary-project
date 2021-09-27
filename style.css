@@ -12,6 +12,11 @@
     padding: 20px;
   }
 
+  #hero-image {
+    display: flex;
+    justify-content: center;
+  }
+
   #hero {
     display: block;
     margin: auto;
